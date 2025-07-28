@@ -57,7 +57,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian987654321&theme=chartreuse-dark&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Christian987654321&color=0e9440&style=flat">
-</p>

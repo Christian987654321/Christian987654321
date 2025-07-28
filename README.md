@@ -54,4 +54,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Christian987654321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=chartreuse-dark&hide_border=true" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Christian987654321&color=0e9440&style=flat">
+</p>

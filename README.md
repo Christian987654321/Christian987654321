@@ -59,6 +59,9 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
+---
+
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=Christian987654321&theme=chartreuse-dark&hide_border=true)](https://github.com/Christian987654321)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Christian987654321&color=0e9440&style=flat">

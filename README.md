@@ -54,6 +54,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Christian987654321&theme=chartreuse-dark&hide_border=true" />
-</p>
+

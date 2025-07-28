@@ -48,11 +48,21 @@
 
 ### 📊 Mi actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christian987654321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Christian987654321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=chartreuse-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 [![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=Christian987654321&theme=chartreuse-dark&hide_border=true)](https://github.com/Christian987654321)
 

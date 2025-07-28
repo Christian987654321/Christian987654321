@@ -33,15 +33,6 @@
 - 📱 Desarrollo Android (nivel base)
 - 🌱 Explorando: Docker, CI/CD
 
----
-
-### 📊 Mi actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Christian987654321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=chartreuse-dark&hide_border=true" />
-</p>
 
 ---
 
@@ -54,12 +45,14 @@
 
 ---
 
+
+### 📊 Mi actividad en GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Christian987654321&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian987654321&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
----
 
 [![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=Christian987654321&theme=chartreuse-dark&hide_border=true)](https://github.com/Christian987654321)
 
